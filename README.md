@@ -43,6 +43,8 @@ I have used Pandas for performing exploratory data analysis and PyCaret for perf
 ![cities v/s SO2](https://github.com/RoshanKrSharma/AQI-Data-analysis/blob/main/images/6.%20plotting%20top%2010%20cities%20vs%20pollutants.png)
 ![cities v/s BTX](https://github.com/RoshanKrSharma/AQI-Data-analysis/blob/main/images/7.%20plotting%20top%2010%20cities%20vs%20pollutants.png)
 
+where BTX = Benzene + Toluene + Xylene
+
 3. Top 10 cities v/s AQI plotting
 
 ![cities v/s AQI](https://github.com/RoshanKrSharma/AQI-Data-analysis/blob/main/images/8.%20plotting%20top%2010%20cities%20vs%20pollutants.png)
@@ -58,6 +60,7 @@ _As we know complete lockdown was there in India from march 2020, so there must 
 
 6. Analysing which pollutant was most decreased in year 2020 in comparision to 2019
 ![](https://github.com/RoshanKrSharma/AQI-Data-analysis/blob/main/images/2020%20in%20comparision%20to%202019.png)
+
 where BTX = Benzene + Toluene + Xylene
 
 
